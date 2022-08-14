@@ -15,7 +15,7 @@ int main() {
    
    average = (no1 + no2)/2 ;
       
-   printf("average of the two marks :" ,average);
+   printf("average of the two marks : %.2f " ,average);
    
   
   return 0;
